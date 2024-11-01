@@ -1,0 +1,5 @@
+#bhpf-portfolio { width: 100%}
+#bhpf-portfolio .bhpf-project { width: 23%; float: left; margin: 5px; text-align: center; position: relative}
+#bhpf-portfolio .bhpf-project span { position: absolute; left: 0; bottom: 0; width: 100%; background: #000; padding: 5px; display: none}
+#bhpf-portfolio .bhpf-project a:hover span { display: block}
+#bhpf-portfolio .bhpf-project img { width: 100%; height: auto}
